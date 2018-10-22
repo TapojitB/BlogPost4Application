@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.commonconfigserver;
+package com.evergreenprogrammer.microservices.commonconfigserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
